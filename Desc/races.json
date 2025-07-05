@@ -16,8 +16,8 @@
   },
   "human": {
     "name": "human",
-    "speciality1": "With unmatched intellect and curiosity, Humans adapt swiftly to every challenge. Their strategic brilliance grants them {buffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> as combat starts, allowing them to manipulate outcomes with superior tactics and decision-making.",
-    "speciality2": "Yet, their physical limits remain a constant vulnerability. Due to their lesser raw strength, Humans suffer a {debuffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> at the start of battle, representing the toll of their fragile biology amidst stronger foes."
+    "speciality1": "With unmatched intellect and curiosity, Humans adapt swiftly to every challenge. Their strategic brilliance grants them {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> as combat starts, allowing them to manipulate outcomes with superior tactics and decision-making.",
+    "speciality2": "Yet, their physical limits remain a constant vulnerability. Due to their lesser raw strength, Humans suffer a {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> at the start of battle, representing the toll of their fragile biology amidst stronger foes."
   },
   "undead": {
     "name": "undead",
