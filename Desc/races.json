@@ -6,7 +6,7 @@
   },
   "elf": {
     "name": "elf",
-    "speciality1": "Elves are deeply attuned to natural energies, which makes them both volatile and vibrant in battle. Upon entering the battlefield, they are struck with {debuffimg} <span class=\"water\">{water}</span>—but also uplifted by {buffimg} <span class=\"lightning\">{lightning}</span>, fueling their agility and morale.",
+    "speciality1": "Elves are deeply attuned to natural energies, which makes them both volatile and vibrant in battle. Upon entering the battlefield, they are struck with {debuffimg} <span class=\"lightning\">{lightning}</span>—but also uplifted by {buffimg} <span class=\"dopamine\">{dopamine}</span>, fueling their agility and morale.",
     "speciality2": "With ancient knowledge of elemental flows, Elves begin each battle by calling forth the rains of the wild, immediately applying {debuffimg} <span class=\"water\">{water}</span> element to their foe and soaking their defenses."
   },
   "orc": {
@@ -21,7 +21,7 @@
   },
   "undead": {
     "name": "undead",
-    "speciality1": "Animated by dark forces beyond comprehension, the Undead rise with decaying yet potent energy. As the game begins, they receive {debuffimg} <span class=\"vamp\">{vamp}</span> and {buffimg} <span class=\"poison\">{poison}</span>—an eerie balance of corruption and resilience.",
-    "speciality2": "Driven by an insatiable hunger for the living, Undead thrive on suffering. They heal through the act of destruction itself, leeching life from their foes. To reflect this gruesome power, they start the battle with {buffimg} <span class=\"poison\">{poison}</span>."
+    "speciality1": "Animated by dark forces beyond comprehension, the Undead rise with decaying yet potent energy. As the game begins, they receive {debuffimg} <span class=\"poison\">{poison}</span> and {buffimg} <span class=\"vitals\">{vitals}</span>—an eerie balance of corruption and resilience.",
+    "speciality2": "Driven by an insatiable hunger for the living, Undead thrive on suffering. They heal through the act of destruction itself, leeching life from their foes. To reflect this gruesome power, they start the battle with {buffimg} <span class=\"vamp\">{vamp}</span>."
   }
 }
