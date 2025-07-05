@@ -2,7 +2,7 @@
   "celestial": {
     "name": "celestial",
     "speciality1": "Immune to stun and freeze. When hit by them, they gain {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> as a defense."
-    "speciality1": "Formed from stars, Celestials control cosmic energy. At the start, they give enemies {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> using rare space particles.",
+    "speciality2": "Formed from stars, Celestials control cosmic energy. At the start, they give enemies {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> using rare space particles.",
   },
   "elf": {
     "name": "elf",
