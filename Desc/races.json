@@ -1,27 +1,27 @@
 {
   "celestial": {
     "name": "celestial",
-    "speciality1": "Formed from stars, Celestials control cosmic energy. At the start, they give enemies {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> using rare space particles.",
-    "speciality2": "Immune to stun and freeze. When hit by them, they gain {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> as a defense."
+    "speciality1": "Born from the fabric of galaxies themselves, Celestials wield the mysterious forces of the cosmos. At the beginning of battle, they infuse their enemies with {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> thanks to the rare celestial particles orbiting within their core.",
+    "speciality2": "Completely untouchable by the concept of stun, Celestials react to such attempts by forming a protective aura. Every time they are stunned or frozen, they automatically gain {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> as a universal countermeasure."
   },
   "elf": {
     "name": "elf",
-    "speciality1": "Elves feel nature strongly. At battle start, they get {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> but also gain {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> to boost speed.",
-    "speciality2": "They call rain when battle begins, hitting enemies with {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> and weakening their guard."
+    "speciality1": "Elves are deeply attuned to natural energies, which makes them both volatile and vibrant in battle. Upon entering the battlefield, they are struck with {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span>—but also uplifted by {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span>, fueling their agility and morale.",
+    "speciality2": "With ancient knowledge of elemental flows, Elves begin each battle by calling forth the rains of the wild, immediately applying {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> element to their foe and soaking their defenses."
   },
   "orc": {
     "name": "orc",
-    "speciality1": "Orcs have tough skin from long battles. They start fights with {buffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span>, making them hard to hurt.",
-    "speciality2": "Their bodies release poison. At battle start, enemies are hit with {debuffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> as a toxic strike."
+    "speciality1": "Forged through centuries of brutal survival, Orcs possess a skin tougher than steel. This ancestral trait grants them {buffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> at the start of any battle, making them incredibly resistant to most forms of damage.",
+    "speciality2": "But that same resilient hide carries a deadly trait—Orcs naturally secrete toxic compounds. As combat begins, this toxicity lashes out and afflicts the enemy with {debuffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span>, a corrosive welcome to war."
   },
   "human": {
     "name": "human",
-    "speciality1": "Humans learn and adapt fast. They gain {buffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> early, using clever plans to win.",
-    "speciality2": "Weaker bodies come at a cost. They begin with {debuffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span>, showing their lack of raw power."
+    "speciality1": "With unmatched intellect and curiosity, Humans adapt swiftly to every challenge. Their strategic brilliance grants them {buffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> as combat starts, allowing them to manipulate outcomes with superior tactics and decision-making.",
+    "speciality2": "Yet, their physical limits remain a constant vulnerability. Due to their lesser raw strength, Humans suffer a {debuffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> at the start of battle, representing the toll of their fragile biology amidst stronger foes."
   },
   "undead": {
     "name": "undead",
-    "speciality1": "Undead rise with dark energy. At the start, they get {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> and {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> together.",
-    "speciality2": "They feed on pain. By harming others, they heal. To show this, they begin with {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span>."
+    "speciality1": "Animated by dark forces beyond comprehension, the Undead rise with decaying yet potent energy. As the game begins, they receive {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> and {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span>—an eerie balance of corruption and resilience.",
+    "speciality2": "Driven by an insatiable hunger for the living, Undead thrive on suffering. They heal through the act of destruction itself, leeching life from their foes. To reflect this gruesome power, they start the battle with {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span>."
   }
 }
