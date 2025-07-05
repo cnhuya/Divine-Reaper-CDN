@@ -16,8 +16,8 @@
   },
   "human": {
     "name": "human",
-    "speciality1": "Humans learn and adapt fast. They gain {buffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> early, using clever plans to win.",
-    "speciality2": "Weaker bodies come at a cost. They begin with {debuffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span>, showing their lack of raw power."
+    "speciality1": "Humans learn and adapt fast. They gain {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> early, using clever plans to win.",
+    "speciality2": "Weaker bodies come at a cost. They begin with {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span>, showing their lack of raw power."
   },
   "undead": {
     "name": "undead",
