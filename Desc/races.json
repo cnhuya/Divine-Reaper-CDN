@@ -1,8 +1,8 @@
 {
   "celestial": {
     "name": "celestial",
-    "speciality1": "Immune to stun and freeze. When hit by them, they gain {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> as a defense."
-    "speciality2": "Formed from stars, Celestials control cosmic energy. At the start, they give enemies {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> using rare space particles.",
+    "speciality1": "Immune to stun and freeze. When hit by them, they gain {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> as a defense.",
+    "speciality2": "Formed from stars, Celestials control cosmic energy. At the start, they give enemies {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> using rare space particles."
   },
   "elf": {
     "name": "elf",
@@ -16,12 +16,12 @@
   },
   "human": {
     "name": "human",
-    "speciality1": "Humans learn and adapt fast. They gain {buffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> early, using clever plans to win.",
-    "speciality2": "Weaker bodies come at a cost. They begin with {debuffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span>, showing their lack of raw power."
+    "speciality1": "Humans learn and adapt fast. They gain {buffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span> early, using clever plans to win.",
+    "speciality2": "Weaker bodies come at a cost. They begin with {debuffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span>, showing their lack of raw power."
   },
   "undead": {
     "name": "undead",
-    "speciality1": "They feed on pain. By harming others, they heal. To show this, they begin with {buffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span>."
-    "speciality2": "Undead rise with dark energy. At the start, they get {debuffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> and {buffimg} <span class=\"{element[2].nameClass}\">{element[2].value}x {element[2].name}</span> together.",
+    "speciality1": "They feed on pain. By harming others, they heal. To show this, they begin with {buffimg} <span class=\"{element[0].nameClass}\">{element[0].value}x {element[0].name}</span>.",
+    "speciality2": "Undead rise with dark energy. At the start, they get {debuffimg} <span class=\"{element[1].nameClass}\">{element[1].value}x {element[1].name}</span> and {buffimg} <span class=\"{element[2].nameClass}\">{element[2].value}x {element[2].name}</span> together."
   }
 }
