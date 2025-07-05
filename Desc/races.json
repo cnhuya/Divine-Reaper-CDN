@@ -6,7 +6,7 @@
   },
   "elf": {
     "name": "elf",
-    "speciality1": "Elves are deeply attuned to natural energies, which makes them both volatile and vibrant in battle. Upon entering the battlefield, they are struck with {debuffimg} <span class=\"water\">{water}</span>—but also uplifted by {buffimg} <span class=\"speed\">{speed}</span>, fueling their agility and morale.",
+    "speciality1": "Elves are deeply attuned to natural energies, which makes them both volatile and vibrant in battle. Upon entering the battlefield, they are struck with {debuffimg} <span class=\"water\">{water}</span>—but also uplifted by {buffimg} <span class=\"speed\">{water}</span>, fueling their agility and morale.",
     "speciality2": "With ancient knowledge of elemental flows, Elves begin each battle by calling forth the rains of the wild, immediately applying {debuffimg} <span class=\"water\">{water}</span> element to their foe and soaking their defenses."
   },
   "orc": {
@@ -16,8 +16,8 @@
   },
   "human": {
     "name": "human",
-    "speciality1": "With unmatched intellect and curiosity, Humans adapt swiftly to every challenge. Their strategic brilliance grants them {buffimg} <span class=\"strategy\">{strategy}</span> as combat starts, allowing them to manipulate outcomes with superior tactics and decision-making.",
-    "speciality2": "Yet, their physical limits remain a constant vulnerability. Due to their lesser raw strength, Humans suffer a {debuffimg} <span class=\"vitality\">{vitality}</span> at the start of battle, representing the toll of their fragile biology amidst stronger foes."
+    "speciality1": "With unmatched intellect and curiosity, Humans adapt swiftly to every challenge. Their strategic brilliance grants them {buffimg} <span class=\"strategy\">{water}</span> as combat starts, allowing them to manipulate outcomes with superior tactics and decision-making.",
+    "speciality2": "Yet, their physical limits remain a constant vulnerability. Due to their lesser raw strength, Humans suffer a {debuffimg} <span class=\"vitality\">{water}</span> at the start of battle, representing the toll of their fragile biology amidst stronger foes."
   },
   "undead": {
     "name": "undead",
