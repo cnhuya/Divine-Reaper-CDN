@@ -1,7 +1,7 @@
 {
   "celestial": {
     "name": "celestial",
-    "speciality1": "Born from the fabric of galaxies themselves, Celestials wield the mysterious forces of the cosmos. At the beginning of battle, they infuse their enemies with {debuffimg} <span class=\"dark-magic\">{dark-magic}</span> thanks to the rare celestial particles orbiting within their core.",
+    "speciality1": "Born from the fabric of galaxies themselves, Celestials wield the mysterious forces of the cosmos. At the beginning of battle, they infuse their enemies with {debuffimg} <span class=\"darkmagic\">{dark magic}</span> thanks to the rare celestial particles orbiting within their core.",
     "speciality2": "Completely untouchable by the concept of stun, Celestials react to such attempts by forming a protective aura. Every time they are stunned or frozen, they automatically gain {buffimg} <span class=\"barrier\">{barrier}</span> as a universal countermeasure."
   },
   "elf": {
