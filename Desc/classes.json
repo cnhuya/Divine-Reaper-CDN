@@ -2,32 +2,32 @@
   "classes": {
     "Necromancer": {
       "actives": {
-        "Scyth Slash": "A fierce slash dealing {damage} damage that poisons the enemy with {debuffimg} <span class=\"poison\">{poison}</span> (3 stacks) and shocks them with {debuffimg} <span class=\"lightning\">{lightning}</span> (5 stacks).",
-        "Soul Curse": "Curses your foes with dark magic, applying {debuffimg} <span class=\"darkmagic\">{dark magic}</span> (1 stack) and {debuffimg} <span class=\"curse\">{curse}</span> (3 stacks). Does not deal direct damage but debilitates enemies."
+        "Scyth Slash": "A fierce slash dealing {damage} damage that poisons the enemy with {debuffimg} <span class=\"poison\">{poison}</span>  and shocks them with {debuffimg} <span class=\"lightning\">{lightning}</span>.",
+        "Soul Curse": "Curses your enemies with dark magic, applying {debuffimg} <span class=\"darkmagic\">{dark magic}</span> and {debuffimg} <span class=\"curse\">{curse}</span>. Does not deal direct damage but debilitates enemies."
       },
       "passives": {
-        "Necromancy Aura": "Applies {debuffimg} <span class=\"rage\">{rage}</span> and {debuffimg} <span class=\"endurance\">{endurance}</span> each {time} to enemies, weakening their attack power and stamina regeneration.",
-        "Taste of Life": "Grants the Necromancer {buffimg} <span class=\"vamp\">{vamp}</span> each {time}, allowing life to be drained from enemies to restore health."
+        "Necromancy Aura": "Applies {debuffimg} <span class=\"rage\">{rage}</span> and {debuffimg} <span class=\"endurance\">{endurance}</span> to enemies, weakening their attack power and stamina regeneration.",
+        "Taste of Life": "Grants the Necromancer {buffimg} <span class=\"vamp\">{vamp}</span>, allowing life to be drained from enemies to restore health."
       }
     },
     "Assassin": {
       "actives": {
-        "Back Stab": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> (3 stacks) that strikes from the shadows.",
-        "Stealth": "Enter stealth mode for {time} seconds, becoming untargetable and immune with {buffimg} <span class=\"immune\">{immune}</span>. Perfect for positioning or escape."
+        "Back Stab": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> that strikes from the shadows.",
+        "Stealth": "Enter stealth mode, becoming untargetable and immune with {buffimg} <span class=\"immune\">{immune}</span>. Perfect for positioning or escape."
       },
       "passives": {
-        "Self Burn": "The Assassin surrounds themselves with {buffimg} <span class=\"fire\">{fire}</span> flames each {time}, dealing minor self-damage but increasing attack speed and evasion.",
-        "Combat Master": "Enhances attacks so that enemies take {debuffimg} <span class=\"lightning\">{lightning}</span> (2 stacks)   every {time} and {debuffimg} <span class=\"poison\">{poison}</span> (1 stack) each {time}, causing continuous damage and debuffs."
+        "Self Burn": "The Assassin surrounds themselves with {buffimg} <span class=\"fire\">{fire}</span> flames, dealing minor self-damage but increasing attack speed and evasion.",
+        "Combat Master": "Enhances attacks so that enemies take {debuffimg} <span class=\"lightning\">{lightning}</span> and {debuffimg} <span class=\"poison\">{poison}</span>, causing continuous damage and debuffs."
       }
     },
     "Archer": {
       "actives": {
-        "Enchanted Shot": "Shoots a magical arrow dealing {damage} damage and applying {debuffimg} <span class=\"poison\">{poison}</span> (1 stack) and {debuffimg} <span class=\"darkmagic\">{dark magic}</span> (1 stack) to enemies. Simultaneously grants the Archer {buffimg} <span class=\"rage\">{rage}</span> (2 stacks) while increasing enemy rage by {debuffimg} <span class=\"rage\">{rage}</span> (5 stacks).",
-        "Triple Shot": "Fires three powerful arrows simultaneously, dealing a combined {damage} damage and inflicting {debuffimg} <span class=\"lightning\">{lightning}</span> (3 stacks) to all targets hit."
+        "Enchanted Shot": "Shoots a magical arrow dealing {damage} damage and applying {debuffimg} <span class=\"poison\">{poison}</span> and {debuffimg} <span class=\"darkmagic\">{dark magic}</span>to enemies. Simultaneously grants the Archer {buffimg} <span class=\"rage\">{rage}</span> while increasing enemy rage by {debuffimg} <span class=\"rage\">{rage}</span>.",
+        "Triple Shot": "Fires three powerful arrows simultaneously, dealing a combined {damage} damage and inflicting {debuffimg} <span class=\"lightning\">{lightning}</span>) to all targets hit."
       },
       "passives": {
         "Imperial Dream": "Archer gains a boost from {buffimg} <span class=\"curse\">{curse}</span> each {time}, increasing the effectiveness of ranged attacks and debuff application.",
-        "Addict": "Enhances focus and reaction by granting {buffimg} <span class=\"dopamine\">{dopamine}</span> (2 stacks) each {time}, increasing attack speed and precision."
+        "Addict": "Enhances focus and reaction by granting {buffimg} <span class=\"dopamine\">{dopamine}</span>, increasing attack speed and precision."
       }
     },
     "Warrior": {
