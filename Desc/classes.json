@@ -22,11 +22,11 @@
     },
     "Mage": {
       "actives": {
-        "Starfall": "Calls down a celestial storm dealing {damage} damage and applying {debuffimg} <span class=\"ice\">{ice}</span>, {debuffimg} <span class=\"poison\">{poison}</span>, and {debuffimg} <span class=\"lightning\">{lightning}</span> to enemies. Also grants the Mage {buffimg} <span class=\"curse\">{curse}</span>. The stars blaze in fury, wreaking havoc across the battlefield with devastating magical force.",
+        "Starfall": "Calls down a celestial storm dealing {damage} damage and applying {debuffimg} <span class=\"ice\">{ice}</span>, {debuffimg} <span class=\"poison\">{poison}</span>, and {debuffimg} <span class=\"lightning\">{lightning}</span> to enemies. Also gives the Mage {debuffimg} <span class=\"curse\">{curse}</span>. The stars blaze in fury, wreaking havoc across the battlefield with devastating magical force.",
         "Frozen Sphere": "Unleashes a spinning orb of frost dealing {damage} damage and afflicting enemies with {debuffimg} <span class=\"ice\">{ice}</span> and {debuffimg} <span class=\"water\">{water}</span>. Grants the Mage {buffimg} <span class=\"curse\">{curse}</span>. The icy sphere freezes the air itself, chilling both mind and muscle of foes caught in its path."
       },
       "passives": {
-        "Inconvience": "Passively channels forbidden energies, applying {debuffimg} <span class=\"darkmagic\">{dark magic}</span> and {debuffimg} <span class=\"ice\">{ice}</span> each {time}. These effects subtly weaken enemies over time, corroding their thoughts and slowing their movements with arcane malice.",
+        "Inconvience": "Passively channels forbidden energies, applying {debuffimg} <span class=\"darkmagic\">{dark magic}</span> and {debuffimg} <span class=\"ice\">{ice}</span>. These effects subtly weaken enemies over time, corroding their thoughts and slowing their movements with arcane malice.",
         "Master Mind": "Grants the Mage {buffimg} <span class=\"wisdom\">{wisdom}</span> every {time}, enhancing magical clarity and decision-making. This passive reflects the Mage's disciplined intellect and mastery over the unseen threads of reality."
       }
     },
@@ -36,7 +36,7 @@
         "Triple Shot": "Fires three powerful arrows simultaneously, dealing a combined {damage} damage and inflicting {debuffimg} <span class=\"lightning\">{lightning}</span> to all targets hit. The flurry overwhelms enemies and delivers precision damage from afar."
       },
       "passives": {
-        "Imperial Dream": "Archer gains a boost from {buffimg} <span class=\"curse\">{curse}</span> each {time}, increasing the effectiveness of ranged attacks and debuff application. This ancient technique is said to be inspired by dreams of imperial warriors past.",
+        "Imperial Dream": "Archer gains a boost from {buffimg} <span class=\"curse\">{curse}</span>, increasing the effectiveness of ranged attacks and debuff application. This ancient technique is said to be inspired by dreams of imperial warriors past.",
         "Addict": "Enhances focus and reaction by granting {buffimg} <span class=\"dopamine\">{dopamine}</span>, increasing attack speed and precision. Each dose fuels a surge of adrenaline, heightening the senses beyond natural limits."
       }
     },
