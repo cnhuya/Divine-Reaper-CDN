@@ -18,6 +18,7 @@
       "passives": {
         "Self Burn": "The Assassin surrounds themselves with {buffimg} <span class=\"fire\">{fire}</span> flames, dealing minor self-damage but increasing his attack speed by {buffimg} <span class=\"dopamine\">{dopamine}</span>. These flames act as both a shield and a trial by fire, testing the wielder's limits.",
         "Stealth": "Enter stealth mode, becoming untargetable and immune with {buffimg} <span class=\"immune\">{immune}</span>. Perfect for positioning or escape, the Assassin melts into the shadows causing enemies to get dizzy and receive {debuffimg} <span class=\"poison\">{poison}</span>, leaving no trace behind."
+      }
     },
     "Mage": {
       "actives": {
@@ -50,5 +51,4 @@
       }
     }
   }
-}
 }
