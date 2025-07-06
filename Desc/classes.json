@@ -23,7 +23,7 @@
     "Archer": {
       "actives": {
         "Enchanted Shot": "Shoots a magical arrow dealing {damage} damage and applying {debuffimg} <span class=\"poison\">{poison}</span> and {debuffimg} <span class=\"darkmagic\">{dark magic}</span>to enemies. Simultaneously grants the Archer {buffimg} <span class=\"rage\">{rage}</span> while increasing enemy rage by {debuffimg} <span class=\"rage\">{rage}</span>.",
-        "Triple Shot": "Fires three powerful arrows simultaneously, dealing a combined {damage} damage and inflicting {debuffimg} <span class=\"lightning\">{lightning}</span>) to all targets hit."
+        "Triple Shot": "Fires three powerful arrows simultaneously, dealing a combined {damage} damage and inflicting {debuffimg} <span class=\"lightning\">{lightning}</span> to all targets hit."
       },
       "passives": {
         "Imperial Dream": "Archer gains a boost from {buffimg} <span class=\"curse\">{curse}</span> each {time}, increasing the effectiveness of ranged attacks and debuff application.",
@@ -33,11 +33,11 @@
     "Warrior": {
       "actives": {
         "Defensive Position": "Assumes a defensive stance, boosting endurance by {buffimg} <span class=\"endurance\">{endurance}</span> and granting immunity with {buffimg} <span class=\"immune\">{immune}</span>.",
-        "To The War": "Charges into battle dealing {damage} damage to enemies, applying {debuffimg} <span class=\"fire\">{fire}</span>, while boosting self with {buffimg} <span class=\"vitals\">{vitals}</span> (5 stacks) and {buffimg} <span class=\"rage\">{rage}</span> (3 stacks)."
+        "To The War": "Charges into battle dealing {damage} damage to enemies, applying {debuffimg} <span class=\"fire\">{fire}</span>, while boosting self with {buffimg} <span class=\"vitals\">{vitals}</span>and {buffimg} <span class=\"rage\">{rage}</span>."
       },
       "passives": {
-        "Heavy Weapon": "Handicaps the Warrior with {debuffimg} <span class=\"water\">{water}</span> each {time}, which causes weapon ineffectiveness, that causes lower attack speed.",
-        "Godly Body": "Enhances survivability by granting {buffimg} <span class=\"endurance\">{endurance}</span> every {time} and {buffimg} <span class=\"vitals\">{vitals}</span> every {time}, boosting stamina and health regeneration."
+        "Heavy Weapon": "Handicaps the Warrior with {debuffimg} <span class=\"water\">{water}</span>, which causes weapon ineffectiveness, that causes lower attack speed.",
+        "Godly Body": "Enhances survivability by granting {buffimg} <span class=\"endurance\">{endurance}</span> and {buffimg} <span class=\"vitals\">{vitals}</span>, boosting stamina and health regeneration."
       }
     }
   }
