@@ -12,12 +12,12 @@
     },
     "Assassin": {
       "actives": {
-        "Self Burn": "The Assassin surrounds themselves with {buffimg} <span class=\"fire\">{fire}</span> flames, dealing minor self-damage but increasing his attack speed by {buffimg} <span class=\"dopamine\">{dopamine}</span>. These flames act as both a shield and a trial by fire, testing the wielder's limits.",
-        "Combat Master": "Enhances attacks so that enemies take {debuffimg} <span class=\"lightning\">{lightning}</span> and {debuffimg} <span class=\"poison\">{poison}</span>, causing continuous damage and debuffs. Each strike is a calculated blow designed to unravel defenses over time."
+        "Back Stabbing": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> that strikes from the shadows. Designed to surprise and paralyze, this strike is favored by assassins for its lethal efficiency.",
+        "Self Burn": "The Assassin surrounds themselves with {buffimg} <span class=\"fire\">{fire}</span> flames, dealing minor self-damage but increasing his attack speed by {buffimg} <span class=\"dopamine\">{dopamine}</span>. These flames act as both a shield and a trial by fire, testing the wielder's limits."
       },
       "passives": {
-        "Back Stabbing": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> that strikes from the shadows. Designed to surprise and paralyze, this strike is favored by assassins for its lethal efficiency.",
-        "Stealth": "Enter stealth mode, becoming untargetable and immune with {buffimg} <span class=\"immune\">{immune}</span>. Perfect for positioning or escape, the Assassin melts into the shadows causing enemies to get dizzy and receive {debuffimg} <span class=\"poison\">{poison}</span>, leaving no trace behind."
+       "Combat Master": "Enhances attacks so that enemies take {debuffimg} <span class=\"lightning\">{lightning}</span> and {debuffimg} <span class=\"poison\">{poison}</span>, causing continuous damage and debuffs. Each strike is a calculated blow designed to unravel defenses over time.",
+       "Stealth": "Enter stealth mode, becoming untargetable and immune with {buffimg} <span class=\"immune\">{immune}</span>. Perfect for positioning or escape, the Assassin melts into the shadows causing enemies to get dizzy and receive {debuffimg} <span class=\"poison\">{poison}</span>, leaving no trace behind."
       }
     },
     "Mage": {
