@@ -2,42 +2,42 @@
   "classes": {
     "Necromancer": {
       "actives": {
-        "Scyth Slash": "A fierce slash dealing {damage} damage that poisons the enemy with {debuffimg} <span class=\"poison\">{poison}</span>  and shocks them with {debuffimg} <span class=\"lightning\">{lightning}</span>.",
-        "Soul Curse": "Curses your enemies with dark magic, applying {debuffimg} <span class=\"darkmagic\">{dark magic}</span> and {debuffimg} <span class=\"curse\">{curse}</span>. Does not deal direct damage but debilitates enemies."
+        "Scyth Slash": "A fierce slash dealing {damage} damage that poisons the enemy with {debuffimg} <span class=\"poison\">{poison}</span> and shocks them with {debuffimg} <span class=\"lightning\">{lightning}</span>. This attack invokes the cursed essence of the underworld, tearing into both flesh and spirit.",
+        "Soul Curse": "Curses your enemies with dark magic, applying {debuffimg} <span class=\"darkmagic\">{dark magic}</span> and {debuffimg} <span class=\"curse\">{curse}</span>. Does not deal direct damage but debilitates enemies by draining their will and corrupting their essence."
       },
       "passives": {
-        "Necromancy Aura": "Applies {debuffimg} <span class=\"rage\">{rage}</span> and {debuffimg} <span class=\"endurance\">{endurance}</span> to enemies, weakening their attack power and stamina regeneration.",
-        "Taste of Life": "Grants the Necromancer {buffimg} <span class=\"vamp\">{vamp}</span>, allowing life to be drained from enemies to restore health."
+        "Necromancy Aura": "Applies {debuffimg} <span class=\"rage\">{rage}</span> and {debuffimg} <span class=\"endurance\">{endurance}</span> to enemies, weakening their attack power and stamina regeneration. This aura continuously pulses with necrotic energy, sapping strength from all who draw near.",
+        "Taste of Life": "Grants the Necromancer {buffimg} <span class=\"vamp\">{vamp}</span>, allowing life to be drained from enemies to restore health. Each pulse feeds on the essence of nearby foes, nourishing the caster with forbidden vitality."
       }
     },
     "Assassin": {
       "actives": {
-        "Back Stab": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> that strikes from the shadows.",
-        "Stealth": "Enter stealth mode, becoming untargetable and immune with {buffimg} <span class=\"immune\">{immune}</span>. Perfect for positioning or escape."
+        "Back Stab": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> that strikes from the shadows. Designed to surprise and paralyze, this strike is favored by assassins for its lethal efficiency.",
+        "Stealth": "Enter stealth mode, becoming untargetable and immune with {buffimg} <span class=\"immune\">{immune}</span>. Perfect for positioning or escape, the Assassin melts into the shadows, leaving no trace behind."
       },
       "passives": {
-        "Self Burn": "The Assassin surrounds themselves with {buffimg} <span class=\"fire\">{fire}</span> flames, dealing minor self-damage but increasing attack speed and evasion.",
-        "Combat Master": "Enhances attacks so that enemies take {debuffimg} <span class=\"lightning\">{lightning}</span> and {debuffimg} <span class=\"poison\">{poison}</span>, causing continuous damage and debuffs."
+        "Self Burn": "The Assassin surrounds themselves with {buffimg} <span class=\"fire\">{fire}</span> flames, dealing minor self-damage but increasing attack speed and evasion. These flames act as both a shield and a trial by fire, testing the wielder's limits.",
+        "Combat Master": "Enhances attacks so that enemies take {debuffimg} <span class=\"lightning\">{lightning}</span> and {debuffimg} <span class=\"poison\">{poison}</span>, causing continuous damage and debuffs. Each strike is a calculated blow designed to unravel defenses over time."
       }
     },
     "Archer": {
       "actives": {
-        "Enchanted Shot": "Shoots a magical arrow dealing {damage} damage and applying {debuffimg} <span class=\"poison\">{poison}</span> and {debuffimg} <span class=\"darkmagic\">{dark magic}</span>to enemies. Simultaneously grants the Archer {buffimg} <span class=\"rage\">{rage}</span> while increasing enemy rage by {debuffimg} <span class=\"rage\">{rage}</span>.",
-        "Triple Shot": "Fires three powerful arrows simultaneously, dealing a combined {damage} damage and inflicting {debuffimg} <span class=\"lightning\">{lightning}</span> to all targets hit."
+        "Enchanted Shot": "Shoots a magical arrow dealing {damage} damage and applying {debuffimg} <span class=\"poison\">{poison}</span> and {debuffimg} <span class=\"darkmagic\">{dark magic}</span> to enemies. Simultaneously grants the Archer {buffimg} <span class=\"rage\">{rage}</span> while increasing enemy rage by {debuffimg} <span class=\"rage\">{rage}</span>. A masterful technique passed down through arcane archery traditions.",
+        "Triple Shot": "Fires three powerful arrows simultaneously, dealing a combined {damage} damage and inflicting {debuffimg} <span class=\"lightning\">{lightning}</span> to all targets hit. The flurry overwhelms enemies and delivers precision damage from afar."
       },
       "passives": {
-        "Imperial Dream": "Archer gains a boost from {buffimg} <span class=\"curse\">{curse}</span> each {time}, increasing the effectiveness of ranged attacks and debuff application.",
-        "Addict": "Enhances focus and reaction by granting {buffimg} <span class=\"dopamine\">{dopamine}</span>, increasing attack speed and precision."
+        "Imperial Dream": "Archer gains a boost from {buffimg} <span class=\"curse\">{curse}</span> each {time}, increasing the effectiveness of ranged attacks and debuff application. This ancient technique is said to be inspired by dreams of imperial warriors past.",
+        "Addict": "Enhances focus and reaction by granting {buffimg} <span class=\"dopamine\">{dopamine}</span>, increasing attack speed and precision. Each dose fuels a surge of adrenaline, heightening the senses beyond natural limits."
       }
     },
     "Warrior": {
       "actives": {
-        "Defensive Position": "Assumes a defensive stance, boosting endurance by {buffimg} <span class=\"endurance\">{endurance}</span> and granting immunity with {buffimg} <span class=\"immune\">{immune}</span>.",
-        "To The War": "Charges into battle dealing {damage} damage to enemies, applying {debuffimg} <span class=\"fire\">{fire}</span>, while boosting self with {buffimg} <span class=\"vitals\">{vitals}</span>and {buffimg} <span class=\"rage\">{rage}</span>."
+        "Defensive Position": "Assumes a defensive stance, boosting endurance by {buffimg} <span class=\"endurance\">{endurance}</span> and granting immunity with {buffimg} <span class=\"immune\">{immune}</span>. This stance fortifies the warrior's defenses, turning their body into a living wall.",
+        "To The War": "Charges into battle dealing {damage} damage to enemies, applying {debuffimg} <span class=\"fire\">{fire}</span>, while boosting self with {buffimg} <span class=\"vitals\">{vitals}</span> and {buffimg} <span class=\"rage\">{rage}</span>. This bold offensive move inspires allies and terrifies foes with its relentless aggression."
       },
       "passives": {
-        "Heavy Weapon": "Handicaps the Warrior with {debuffimg} <span class=\"water\">{water}</span>, which causes weapon ineffectiveness, that causes lower attack speed.",
-        "Godly Body": "Enhances survivability by granting {buffimg} <span class=\"endurance\">{endurance}</span> and {buffimg} <span class=\"vitals\">{vitals}</span>, boosting stamina and health regeneration."
+        "Heavy Weapon": "Handicaps the Warrior with {debuffimg} <span class=\"water\">{water}</span>, which causes weapon ineffectiveness, that causes lower attack speed. Despite the penalty, the weight of the weapon channels devastating power when strikes connect.",
+        "Godly Body": "Enhances survivability by granting {buffimg} <span class=\"endurance\">{endurance}</span> and {buffimg} <span class=\"vitals\">{vitals}</span>, boosting stamina and health regeneration. This passive embodies the unbreakable physique of a godlike champion."
       }
     }
   }
