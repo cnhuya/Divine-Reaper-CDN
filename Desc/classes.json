@@ -12,7 +12,7 @@
     },
     "Assassin": {
       "actives": {
-        "Back Stab": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> that strikes from the shadows. Designed to surprise and paralyze, this strike is favored by assassins for its lethal efficiency.",
+        "Back Stabbing": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> that strikes from the shadows. Designed to surprise and paralyze, this strike is favored by assassins for its lethal efficiency.",
         "Combat Master": "Enhances attacks so that enemies take {debuffimg} <span class=\"lightning\">{lightning}</span> and {debuffimg} <span class=\"poison\">{poison}</span>, causing continuous damage and debuffs. Each strike is a calculated blow designed to unravel defenses over time."
       },
       "passives": {
