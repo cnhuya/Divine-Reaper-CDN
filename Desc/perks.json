@@ -1,6 +1,6 @@
 {
   "Perks": {
-    "ArcanePerks": {
+    "Arcane": {
       "Awakening": "Unleashes an empowering surge that grants allies {buffimg} <span class=\"vamp\">vamp</span>, {buffimg} <span class=\"wisdom\">wisdom</span>, {buffimg} <span class=\"dopamine\">dopamine</span>, {buffimg} <span class=\"endurance\">endurance</span>, {buffimg} <span class=\"rage\">rage</span>, and {buffimg} <span class=\"immune\">immunity</span> to negative effects.",
       "Dark Energy": "Emits a malevolent aura that afflicts enemies with {debuffimg} <span class=\"darkmagic\">dark magic</span>, {debuffimg} <span class=\"poison\">poison</span>, {debuffimg} <span class=\"water\">water</span>, {debuffimg} <span class=\"lightning\">lightning</span>, and {debuffimg} <span class=\"curse\">curse</span>.",
       "From Heaven": "Blesses allies with {buffimg} <span class=\"barrier\">barrier</span>, {buffimg} <span class=\"vamp\">vamp</span>, {buffimg} <span class=\"vitals\">vitals</span>, and {buffimg} <span class=\"wisdom\">wisdom</span> — a divine touch of protection and knowledge.",
@@ -20,7 +20,7 @@
       "Mystery": "An eerie glow that silently infects foes with {debuffimg} <span class=\"curse\">curse</span> and {debuffimg} <span class=\"darkmagic\">dark magic</span>.",
       "Spiritual Glow": "A faint radiance bolsters the soul with {buffimg} <span class=\"dopamine\">dopamine</span>, {buffimg} <span class=\"endurance\">endurance</span>, and {buffimg} <span class=\"wisdom\">wisdom</span>."
     },
-    "NaturePerks": {
+    "Nature": {
       "Ruined Sun": "Unleashes the decaying wrath of the forest sun, searing enemies with {debuffimg} <span class=\"fire\">{fire}</span> and electrifying them with {debuffimg} <span class=\"lightning\">{lightning}</span>. Also curses their souls with {debuffimg} <span class=\"curse\">{curse}</span> and infuses them with dark decay via {debuffimg} <span class=\"darkmagic\">{dark magic}</span>.",
       "Nature Call": "Summons the primal force of the earth to empower allies with {buffimg} <span class=\"rage\">{rage}</span>, {buffimg} <span class=\"endurance\">{endurance}</span>, and {buffimg} <span class=\"vitals\">{vitals}</span>. This rallying cry awakens the spirit of ancient trees and beasts.",
       "Typhoon": "A wild storm is conjured, lashing enemies with {debuffimg} <span class=\"ice\">{ice}</span> and {debuffimg} <span class=\"water\">{water}</span>, while granting the caster {buffimg} <span class=\"dopamine\">{dopamine}</span> through elemental exhilaration.",
@@ -40,7 +40,7 @@
       "Earth Strength": "Tap into the unshakable core of the planet, gaining {buffimg} <span class=\"rage\">{rage}</span> and standing unyielding in the face of chaos.",
       "Healing Touch": "A soothing palm radiates gentle energy, replenishing {buffimg} <span class=\"vitals\">{vitals}</span> and {buffimg} <span class=\"endurance\">{endurance}</span>. Nature’s embrace cures all."
     },
-    "AuraPerks": {
+    "Aura": {
       "Awakening": "Unleashes an empowering surge that grants allies {buffimg} <span class=\"vamp\">vamp</span>, {buffimg} <span class=\"wisdom\">wisdom</span>, {buffimg} <span class=\"dopamine\">dopamine</span>, {buffimg} <span class=\"endurance\">endurance</span>, {buffimg} <span class=\"rage\">rage</span>, and {buffimg} <span class=\"immune\">immunity</span> to negative effects.",
       "Dark Energy": "Emits a malevolent aura that afflicts enemies with {debuffimg} <span class=\"darkmagic\">dark magic</span>, {debuffimg} <span class=\"poison\">poison</span>, {debuffimg} <span class=\"water\">water</span>, {debuffimg} <span class=\"lightning\">lightning</span>, and {debuffimg} <span class=\"curse\">curse</span>.",
       "From Heaven": "Blesses allies with {buffimg} <span class=\"barrier\">barrier</span>, {buffimg} <span class=\"vamp\">vamp</span>, {buffimg} <span class=\"vitals\">vitals</span>, and {buffimg} <span class=\"wisdom\">wisdom</span> — a divine touch of protection and knowledge.",
