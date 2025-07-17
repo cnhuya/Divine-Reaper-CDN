@@ -1,34 +1,34 @@
 {
-  "classes": {
-    "Necromancer": {
-      "actives": {
-        "Taste of Life": "Grants the Necromancer {buffimg} <span class=\"vamp\">{vamp}</span>, allowing life to be drained from enemies to restore health. Each pulse feeds on the essence of nearby foes, nourishing the caster with forbidden vitality.",
-        "Scyth Slash": "A fierce slash dealing {damage} damage that poisons the enemy with {debuffimg} <span class=\"poison\">{poison}</span> and shocks them with {debuffimg} <span class=\"lightning\">{lightning}</span>. This attack invokes the cursed essence of the underworld, tearing into both flesh and spirit."
-      },
-    },
-    "Assassin": {
-      "actives": {
-        "Stealth": "Enter stealth mode, becoming untargetable and immune with {buffimg} <span class=\"immune\">{immune}</span>. Perfect for positioning or escape, the Assassin melts into the shadows causing enemies to get dizzy and receive {debuffimg} <span class=\"poison\">{poison}</span>, leaving no trace behind.",
-        "Back Stabbing": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> that strikes from the shadows. Designed to surprise and paralyze, this strike is favored by assassins for its lethal efficiency."
-      },
-    },
-    "Mage": {
-      "actives": {
-        "Inconvience": "Passively channels forbidden energies, applying {debuffimg} <span class=\"darkmagic\">{dark magic}</span> and {debuffimg} <span class=\"ice\">{ice}</span>. These effects subtly weaken enemies over time, corroding their thoughts and slowing their movements with arcane malice.",
-        "Master Mind": "Grants the Mage {buffimg} <span class=\"wisdom\">{wisdom}</span> every {time}, enhancing magical clarity and decision-making. This passive reflects the Mage's disciplined intellect and mastery over the unseen threads of reality."
-      }
-    },
-    "Archer": {
-      "actives": {
-        "Enchanted Shot": "Shoots a magical arrow dealing {damage} damage and applying {debuffimg} <span class=\"poison\">{poison}</span> and {debuffimg} <span class=\"darkmagic\">{dark magic}</span> to enemies. Simultaneously grants the Archer {buffimg} <span class=\"rage\">{rage}</span> while increasing enemy rage by {debuffimg} <span class=\"rage\">{rage}</span>. A masterful technique passed down through arcane archery traditions.",
-        "Triple Shot": "Fires three powerful arrows simultaneously, dealing a combined {damage} damage and inflicting {debuffimg} <span class=\"lightning\">{lightning}</span> to all targets hit. The flurry overwhelms enemies and delivers precision damage from afar."
-      },
-    },
-    "Warrior": {
-      "actives": {
-        "To The War": "Charges into battle dealing {damage} damage to enemies, applying {debuffimg} <span class=\"fire\">{fire}</span>, while boosting self with {buffimg} <span class=\"vitals\">{vitals}</span> and {buffimg} <span class=\"rage\">{rage}</span>. This bold offensive move inspires allies and terrifies foes with its relentless aggression.",
-         "Godly Body": "Enhances survivability by granting {buffimg} <span class=\"endurance\">{endurance}</span> and {buffimg} <span class=\"vitals\">{vitals}</span>, boosting stamina and health regeneration. This passive embodies the unbreakable physique of a godlike champion."
-      },
+    "classes": {
+        "Necromancer": {
+            "actives": {
+                "Taste of Life": "Grants the Necromancer {buffimg} <span class=\"vamp\">{vamp}</span>, allowing life to be drained from enemies to restore health. Each pulse feeds on the essence of nearby foes, nourishing the caster with forbidden vitality.",
+                "Scyth Slash": "A fierce slash dealing {damage} damage that poisons the enemy with {debuffimg} <span class=\"poison\">{poison}</span> and shocks them with {debuffimg} <span class=\"lightning\">{lightning}</span>. This attack invokes the cursed essence of the underworld, tearing into both flesh and spirit."
+            }
+        },
+        "Assassin": {
+            "actives": {
+                "Stealth": "Enter stealth mode, becoming untargetable and immune with {buffimg} <span class=\"immune\">{immune}</span>. Perfect for positioning or escape, the Assassin melts into the shadows causing enemies to get dizzy and receive {debuffimg} <span class=\"poison\">{poison}</span>, leaving no trace behind.",
+                "Back Stabbing": "A swift attack dealing {damage} damage enhanced by {debuffimg} <span class=\"lightning\">{lightning}</span> that strikes from the shadows. Designed to surprise and paralyze, this strike is favored by assassins for its lethal efficiency."
+            }
+        },
+        "Mage": {
+            "actives": {
+                "Inconvience": "Passively channels forbidden energies, applying {debuffimg} <span class=\"darkmagic\">{dark magic}</span> and {debuffimg} <span class=\"ice\">{ice}</span>. These effects subtly weaken enemies over time, corroding their thoughts and slowing their movements with arcane malice.",
+                "Master Mind": "Grants the Mage {buffimg} <span class=\"wisdom\">{wisdom}</span> every {time}, enhancing magical clarity and decision-making. This passive reflects the Mage's disciplined intellect and mastery over the unseen threads of reality."
+            }
+        },
+        "Archer": {
+            "actives": {
+                "Enchanted Shot": "Shoots a magical arrow dealing {damage} damage and applying {debuffimg} <span class=\"poison\">{poison}</span> and {debuffimg} <span class=\"darkmagic\">{dark magic}</span> to enemies. Simultaneously grants the Archer {buffimg} <span class=\"rage\">{rage}</span> while increasing enemy rage by {debuffimg} <span class=\"rage\">{rage}</span>. A masterful technique passed down through arcane archery traditions.",
+                "Triple Shot": "Fires three powerful arrows simultaneously, dealing a combined {damage} damage and inflicting {debuffimg} <span class=\"lightning\">{lightning}</span> to all targets hit. The flurry overwhelms enemies and delivers precision damage from afar."
+            }
+        },
+        "Warrior": {
+            "actives": {
+                "To The War": "Charges into battle dealing {damage} damage to enemies, applying {debuffimg} <span class=\"fire\">{fire}</span>, while boosting self with {buffimg} <span class=\"vitals\">{vitals}</span> and {buffimg} <span class=\"rage\">{rage}</span>. This bold offensive move inspires allies and terrifies foes with its relentless aggression.",
+                "Godly Body": "Enhances survivability by granting {buffimg} <span class=\"endurance\">{endurance}</span> and {buffimg} <span class=\"vitals\">{vitals}</span>, boosting stamina and health regeneration. This passive embodies the unbreakable physique of a godlike champion."
+            }
+        }
     }
-  }
 }
