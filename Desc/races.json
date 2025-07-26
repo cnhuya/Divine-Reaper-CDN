@@ -1,27 +1,29 @@
 {
-  "Celestial": {
-    "name": "celestial",
-    "speciality1": "Celestials are made from stars and space. At the start of battle, they hit enemies with {debuffimg} <span class=\"darkmagic\">{dark magic}</span> from the energy inside them.",
-    "speciality2": "Celestials can't be stunned. When it happens, they create a shield and gain {buffimg} <span class=\"barrier\">{barrier}</span> to protect themselves."
-  },
-  "Elf": {
-    "name": "elf",
-    "speciality1": "Elves are close to nature. When battle starts, they get {debuffimg} <span class=\"lightning\">{lightning}</span> but also gain {buffimg} <span class=\"dopamine\">{dopamine}</span> to move faster.",
-    "speciality2": "Elves call rain when battle begins, hitting the enemy with {debuffimg} <span class=\"water\">{water}</span> to weaken them."
-  },
-  "Orc": {
-    "name": "orc",
-    "speciality1": "Orcs are tough from years of fighting. They start battles with {buffimg} <span class=\"endurance\">{endurance}</span> that helps block damage.",
-    "speciality2": "Orcs release poison from their skin. At the start, they hurt enemies with {debuffimg} <span class=\"poison\">{poison}</span>."
-  },
-  "Human": {
-    "name": "human",
-    "speciality1": "Humans are smart and learn fast. At the start, they gain {buffimg} <span class=\"wisdom\">{wisdom}</span> to plan better.",
-    "speciality2": "Humans are not as strong. They begin battle with {debuffimg} <span class=\"curse\">{curse}</span> because of weak bodies."
-  },
-  "Undead": {
-    "name": "undead",
-    "speciality1": "Undead rise with dark power. They start with {debuffimg} <span class=\"poison\">{poison}</span> and {buffimg} <span class=\"vitals\">{vitals}</span> as mix of decay and strength.",
-    "speciality2": "Undead heal by hurting others. At the start, they gain {buffimg} <span class=\"vamp\">{vamp}</span> to steal life."
+  "races": {
+    "Celestial": {
+      "name": "celestial",
+      "speciality1": "Celestials are made from stars and space. At the start of battle, they hit enemies with {debuffimg} <span class=\"darkmagic\">{dark magic}</span> from the energy inside them.",
+      "speciality2": "Celestials can't be stunned. When it happens, they create a shield and gain {buffimg} <span class=\"barrier\">{barrier}</span> to protect themselves."
+    },
+    "Elf": {
+      "name": "elf",
+      "speciality1": "Elves are close to nature. When battle starts, they get {debuffimg} <span class=\"lightning\">{lightning}</span> but also gain {buffimg} <span class=\"dopamine\">{dopamine}</span> to move faster.",
+      "speciality2": "Elves call rain when battle begins, hitting the enemy with {debuffimg} <span class=\"water\">{water}</span> to weaken them."
+    },
+    "Orc": {
+      "name": "orc",
+      "speciality1": "Orcs are tough from years of fighting. They start battles with {buffimg} <span class=\"endurance\">{endurance}</span> that helps block damage.",
+      "speciality2": "Orcs release poison from their skin. At the start, they hurt enemies with {debuffimg} <span class=\"poison\">{poison}</span>."
+    },
+    "Human": {
+      "name": "human",
+      "speciality1": "Humans are smart and learn fast. At the start, they gain {buffimg} <span class=\"wisdom\">{wisdom}</span> to plan better.",
+      "speciality2": "Humans are not as strong. They begin battle with {debuffimg} <span class=\"curse\">{curse}</span> because of weak bodies."
+    },
+    "Undead": {
+      "name": "undead",
+      "speciality1": "Undead rise with dark power. They start with {debuffimg} <span class=\"poison\">{poison}</span> and {buffimg} <span class=\"vitals\">{vitals}</span> as mix of decay and strength.",
+      "speciality2": "Undead heal by hurting others. At the start, they gain {buffimg} <span class=\"vamp\">{vamp}</span> to steal life."
+    }
   }
 }
