@@ -11,7 +11,37 @@
       "title": "Centralized",
       "feature1": "Completely free to play, no need to pay anything",
       "feature2": "You don't have to own any Web 3.0 wallet.",
-      "feature3": "We store your password and username in our centralized database"
+      "feature3": "We store your password and username in our centralized database",
+      "feature4": "In case our API goes down, you won’t be able to play, compared to other bundles",
+      "feature5": "You will see side panel advertisements",
+      "feature6": "You will sometimes receive pop-up ads",
+      "feature7": "Our MMR to rewards ratio is only 0.5",
+      "feature8": "You \"only\" receive 100% Aexis Pass XP points",
+      "feature9": "No staking or passive earnings"
+    },
+    "decentralized": {
+      "title": "Decentralized",
+      "feature1": "Free to play with limited access to premium features",
+      "feature2": "Requires Web 3.0 wallet like MetaMask",
+      "feature3": "Your account is secured via blockchain authentication",
+      "feature4": "You can continue playing even if our API goes down",
+      "feature5": "Minimal advertisement experience",
+      "feature6": "You can stake tokens to earn passive rewards",
+      "feature7": "MMR to rewards ratio is 1.0",
+      "feature8": "Earn up to 150% Aexis Pass XP points",
+      "feature9": "Ownership of in-game assets as NFTs"
+    },
+    "vip": {
+      "title": "VIP",
+      "feature1": "Premium subscription required",
+      "feature2": "No ads at all",
+      "feature3": "Highest priority in matchmaking and support",
+      "feature4": "Unlimited access to all premium content",
+      "feature5": "Access to exclusive VIP events and rewards",
+      "feature6": "MMR to rewards ratio is 2.0",
+      "feature7": "Earn up to 200% Aexis Pass XP points",
+      "feature8": "Bonus weekly token airdrops",
+      "feature9": "Early access to future features and test realms"
     }
   },
   "settings": {
