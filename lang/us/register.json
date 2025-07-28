@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "class": "Class",
+    "race": "Race",
+    "register": "Register",
+    "settings": "Fast Settings",
+    "profile": "Profile"
+  },
+  "bundle": {
+    "centralized": {
+      "title": "Centralized",
+      "feature1": "Completely free to play, no need to pay anything",
+      "feature2": "You don't have to own any Web 3.0 wallet.",
+      "feature3": "We store your password and username in our centralized database"
+      // Add more...
+    }
+  },
+  "settings": {
+    "tooltips": "Hover Tooltips on Various Content",
+    "familyFilter": "Family Filter on Chat",
+    "visualEffects": "View Combat Visual Effects",
+    "musicVolume": "Music Sound Volume"
+  },
+  "profile": {
+    "nickname": "Nickname",
+    "email": "Email",
+    "password": "Password",
+    "acceptTOS": "By checking this box, you accept our Terms Of Services.",
+    "noChangeWarning": "You won't be able to change your class or race once you proceed to create your hero",
+    "createHero": "Create Hero"
+  }
+}

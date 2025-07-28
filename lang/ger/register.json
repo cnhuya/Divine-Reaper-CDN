@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "class": "Klasse",
+    "race": "Rasse",
+    "register": "Registrieren",
+    "settings": "Schnelleinstellungen",
+    "profile": "Profil"
+  },
+  "bundle": {
+    "centralized": {
+      "title": "Zentralisiert",
+      "feature1": "Völlig kostenlos spielbar, keine Zahlungen erforderlich",
+      "feature2": "Du benötigst keine Web 3.0-Wallet.",
+      "feature3": "Wir speichern deinen Benutzernamen und dein Passwort in unserer zentralen Datenbank"
+    }
+  },
+  "settings": {
+    "tooltips": "Tooltips bei verschiedenen Inhalten anzeigen",
+    "familyFilter": "Familienfilter für den Chat",
+    "visualEffects": "Kampfeffekte anzeigen",
+    "musicVolume": "Musiklautstärke"
+  },
+  "profile": {
+    "nickname": "Spitzname",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "acceptTOS": "Durch Ankreuzen akzeptierst du unsere Nutzungsbedingungen.",
+    "noChangeWarning": "Du kannst Klasse oder Rasse nach der Helden-Erstellung nicht mehr ändern",
+    "createHero": "Held erstellen"
+  }
+}
