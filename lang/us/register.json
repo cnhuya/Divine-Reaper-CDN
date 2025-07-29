@@ -3,8 +3,10 @@
     "class": "Class",
     "race": "Race",
     "register": "Register",
-    "settings": "Fast Settings",
-    "profile": "Profile"
+    "selection": "Selection",
+    "settings": "Quick Settings",
+    "profile": "Profile",
+    "bundle": "Bundle"
   },
   "bundle": {
     "centralized": {
