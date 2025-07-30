@@ -59,5 +59,11 @@
     "acceptTOS": "Durch Ankreuzen dieses Feldes akzeptierst du unsere Nutzungsbedingungen.",
     "noChangeWarning": "Du kannst Klasse oder Rasse später nicht mehr ändern, sobald du deinen Helden erstellst.",
     "createHero": "Helden erstellen"
+  },
+  "login": {
+    "logged_as": "Angemeldet als",
+    "level": "Stufe",
+    "select_hero": "Helden auswählen",
+    "power": "Kraft"
   }
 }
