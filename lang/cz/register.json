@@ -7,8 +7,7 @@
     "selection": "Výběr",
     "settings": "Rychlá nastavení",
     "profile": "Profil",
-    "bundle": "Balíček",
-    "logged_as": "Přihlášen jako"
+    "bundle": "Balíček"
   },
   "bundle": {
     "centralized": {
@@ -61,7 +60,8 @@
     "noChangeWarning": "Jakmile vytvoříš svého hrdinu, nemůžeš později změnit třídu ani rasu.",
     "createHero": "Vytvořit hrdinu"
   },
-  "login":{
+  "login": {
+    "logged_as": "Přihlášen jako",
     "level": "Úroveň",
     "select_hero": "Vyberte hrdinu",
     "power": "Síla"
