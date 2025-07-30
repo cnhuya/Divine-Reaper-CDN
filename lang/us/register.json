@@ -1,6 +1,7 @@
 {
   "menu": {
     "class": "Class",
+    "login": "Login",
     "race": "Race",
     "register": "Register",
     "selection": "Selection",
