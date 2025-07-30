@@ -58,5 +58,11 @@
     "acceptTOS": "勾选此框表示你同意我们的使用条款。",
     "noChangeWarning": "创建英雄后，你将无法再更改职业或种族。",
     "createHero": "创建英雄"
+  },
+  "login": {
+    "logged_as": "登录为",
+    "level": "等级",
+    "select_hero": "选择英雄",
+    "power": "力量"
   }
 }
