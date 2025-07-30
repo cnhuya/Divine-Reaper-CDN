@@ -59,5 +59,11 @@
     "acceptTOS": "이 박스를 체크하면 이용약관에 동의하게 됩니다.",
     "noChangeWarning": "영웅 생성 후에는 클래스나 종족을 변경할 수 없습니다.",
     "createHero": "영웅 생성"
+  },
+  "login": {
+    "logged_as": "다음으로 로그인됨",
+    "level": "레벨",
+    "select_hero": "영웅 선택",
+    "power": "파워"
   }
 }
