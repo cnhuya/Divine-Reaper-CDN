@@ -1,0 +1,62 @@
+{
+  "menu": {
+    "class": "클래스",
+    "race": "종족",
+    "register": "회원가입",
+    "selection": "선택",
+    "settings": "빠른 설정",
+    "profile": "프로필",
+    "bundle": "패키지"
+  },
+  "bundle": {
+    "centralized": {
+      "title": "중앙화",
+      "feature1": "완전히 무료로 플레이 가능, 결제 필요 없음.",
+      "feature2": "Web 3.0 지갑이 필요하지 않습니다.",
+      "feature3": "비밀번호와 사용자명을 중앙화된 데이터베이스에 저장합니다.",
+      "feature4": "API가 다운되면 다른 패키지와 달리 게임을 할 수 없습니다.",
+      "feature5": "사이드바에 광고가 표시됩니다.",
+      "feature6": "가끔 팝업 광고가 나타납니다.",
+      "feature7": "MMR 대 보상 비율은 0.4입니다.",
+      "feature8": "Aexis 패스 경험치를 100% 획득합니다."
+    },
+    "decentralized": {
+      "title": "부분적 탈중앙화",
+      "feature1": "완전히 무료로 플레이 가능, 결제 필요 없음.",
+      "feature2": "블록체인 인증으로 계정이 보안됩니다.",
+      "feature3": "최소한의 광고 경험.",
+      "feature4": "팝업 광고는 절대 표시되지 않습니다.",
+      "feature5": "앞으로 API가 다운되어도 게임을 플레이할 수 있습니다.",
+      "feature6": "MMR 대 보상 비율은 0.5입니다.",
+      "feature7": "Aexis 패스 경험치를 최대 105% 획득합니다.",
+      "feature8": "MetaMask 같은 Web 3.0 지갑이 필요합니다."
+    },
+    "vip": {
+      "title": "슈프라 탈중앙화",
+      "feature1": "앞으로 API가 다운되어도 게임을 플레이할 수 있습니다.",
+      "feature2": "광고 전혀 없음.",
+      "feature3": "개인 정보를 절대 저장하지 않습니다.",
+      "feature4": "모든 것이 완전히 투명하며 블록체인에서 확인 가능합니다.",
+      "feature5": "매일 로그인하고 수령 시 무료 보물 1개를 받습니다.",
+      "feature6": "MMR 대 보상 비율은 1.0입니다.",
+      "feature7": "Aexis 패스 경험치를 최대 150% 획득합니다.",
+      "feature8": "거래 시 최소한의 $Supra 수수료만 지불합니다."
+    }
+  },
+  "settings": {
+    "tooltips": "다양한 콘텐츠 위에 마우스를 올릴 때 툴팁 표시",
+    "familyFilter": "채팅 가족 필터",
+    "visualEffects": "전투 효과 표시",
+    "musicVolume": "음악 볼륨",
+    "musicVolumeFX": "효과음 볼륨"
+  },
+  "profile": {
+    "nickname": "닉네임",
+    "email": "이메일",
+    "password": "비밀번호",
+    "selectWallet": "선호하는 지갑을 선택하세요",
+    "acceptTOS": "이 박스를 체크하면 이용약관에 동의하게 됩니다.",
+    "noChangeWarning": "영웅 생성 후에는 클래스나 종족을 변경할 수 없습니다.",
+    "createHero": "영웅 생성"
+  }
+}

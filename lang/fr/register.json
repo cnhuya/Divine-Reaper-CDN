@@ -1,0 +1,62 @@
+{
+  "menu": {
+    "class": "Classe",
+    "race": "Race",
+    "register": "S'inscrire",
+    "selection": "Sélection",
+    "settings": "Paramètres rapides",
+    "profile": "Profil",
+    "bundle": "Forfait"
+  },
+  "bundle": {
+    "centralized": {
+      "title": "Centralisé",
+      "feature1": "Entièrement jouable gratuitement, aucun paiement requis.",
+      "feature2": "Vous n'avez pas besoin d'un portefeuille Web 3.0.",
+      "feature3": "Nous stockons votre mot de passe et votre nom d'utilisateur dans notre base de données centralisée.",
+      "feature4": "Si notre API tombe en panne, vous ne pourrez pas jouer contrairement aux autres forfaits.",
+      "feature5": "Vous verrez des publicités dans la barre latérale.",
+      "feature6": "Vous recevrez occasionnellement des publicités pop-up.",
+      "feature7": "Notre ratio MMR/récompenses n'est que de 0,4.",
+      "feature8": "Vous obtenez 100 % d'XP du Pass Aexis."
+    },
+    "decentralized": {
+      "title": "Partiellement décentralisé",
+      "feature1": "Entièrement jouable gratuitement, aucun paiement requis.",
+      "feature2": "Votre compte est sécurisé grâce à l'authentification blockchain.",
+      "feature3": "Expérience publicitaire minimale.",
+      "feature4": "Vous ne verrez jamais de publicités pop-up.",
+      "feature5": "À l'avenir, vous pourrez jouer même si notre API tombe en panne.",
+      "feature6": "Notre ratio MMR/récompenses est de 0,5.",
+      "feature7": "Gagnez jusqu'à 105 % d'XP du Pass Aexis.",
+      "feature8": "Nécessite un portefeuille Web 3.0 comme MetaMask."
+    },
+    "vip": {
+      "title": "Supra-décentralisé",
+      "feature1": "À l'avenir, vous pourrez jouer même si notre API tombe en panne.",
+      "feature2": "Aucune publicité, absolument.",
+      "feature3": "Nous ne stockerons jamais vos données personnelles.",
+      "feature4": "Tout est totalement transparent et visible sur la blockchain.",
+      "feature5": "Recevez 1 trésor gratuit chaque jour lors de la connexion et de la réclamation.",
+      "feature6": "Notre ratio MMR/récompenses est de 1,0.",
+      "feature7": "Gagnez jusqu'à 150 % d'XP du Pass Aexis.",
+      "feature8": "Vous payez des frais minimaux en $Supra pour vos transactions."
+    }
+  },
+  "settings": {
+    "tooltips": "Info-bulles lors du survol de différents éléments",
+    "familyFilter": "Filtre familial dans le chat",
+    "visualEffects": "Afficher les effets de combat",
+    "musicVolume": "Volume de la musique",
+    "musicVolumeFX": "Volume des effets sonores"
+  },
+  "profile": {
+    "nickname": "Pseudo",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "selectWallet": "Choisissez votre portefeuille préféré",
+    "acceptTOS": "En cochant cette case, vous acceptez nos conditions d'utilisation.",
+    "noChangeWarning": "Vous ne pourrez plus modifier la classe ou la race une fois votre héros créé.",
+    "createHero": "Créer un héros"
+  }
+}

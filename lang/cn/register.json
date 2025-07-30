@@ -1,0 +1,62 @@
+{
+  "menu": {
+    "class": "职业",
+    "race": "种族",
+    "register": "注册",
+    "selection": "选择",
+    "settings": "快速设置",
+    "profile": "个人资料",
+    "bundle": "套餐"
+  },
+  "bundle": {
+    "centralized": {
+      "title": "中心化",
+      "feature1": "完全免费游玩，无需支付费用。",
+      "feature2": "你不需要 Web 3.0 钱包。",
+      "feature3": "我们会将你的密码和用户名存储在我们的中心化数据库中。",
+      "feature4": "如果我们的 API 出现故障，你将无法像其他套餐一样继续游戏。",
+      "feature5": "你将在侧边栏看到广告。",
+      "feature6": "你会偶尔看到弹窗广告。",
+      "feature7": "我们的 MMR 与奖励比例仅为 0.4。",
+      "feature8": "你将获得 100% 的 Aexis 通行证经验值。"
+    },
+    "decentralized": {
+      "title": "部分去中心化",
+      "feature1": "完全免费游玩，无需支付费用。",
+      "feature2": "你的账户通过区块链认证进行保护。",
+      "feature3": "广告体验极少。",
+      "feature4": "你将永远不会看到弹窗广告。",
+      "feature5": "将来即使我们的 API 出现故障，你也能继续游戏。",
+      "feature6": "我们的 MMR 与奖励比例为 0.5。",
+      "feature7": "可获得最高 105% 的 Aexis 通行证经验值。",
+      "feature8": "需要使用 Web 3.0 钱包，例如 MetaMask。"
+    },
+    "vip": {
+      "title": "Supra 去中心化",
+      "feature1": "将来即使我们的 API 出现故障，你也能继续游戏。",
+      "feature2": "完全没有广告。",
+      "feature3": "我们绝不会存储你的个人信息。",
+      "feature4": "所有内容完全透明，可在区块链上查看。",
+      "feature5": "每日登录并领取可获得 1 个免费宝藏。",
+      "feature6": "我们的 MMR 与奖励比例为 1.0。",
+      "feature7": "可获得最高 150% 的 Aexis 通行证经验值。",
+      "feature8": "你需为交易支付少量 $Supra 手续费。"
+    }
+  },
+  "settings": {
+    "tooltips": "鼠标悬停时显示提示信息",
+    "familyFilter": "聊天内容家庭过滤",
+    "visualEffects": "显示战斗特效",
+    "musicVolume": "音乐音量",
+    "musicVolumeFX": "音效音量"
+  },
+  "profile": {
+    "nickname": "昵称",
+    "email": "邮箱",
+    "password": "密码",
+    "selectWallet": "选择你偏好的钱包",
+    "acceptTOS": "勾选此框表示你同意我们的使用条款。",
+    "noChangeWarning": "创建英雄后，你将无法再更改职业或种族。",
+    "createHero": "创建英雄"
+  }
+}
