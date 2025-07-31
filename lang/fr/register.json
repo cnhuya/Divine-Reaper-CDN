@@ -1,5 +1,6 @@
 {
   "menu": {
+    "login": "Connexion",
     "class": "Classe",
     "race": "Race",
     "register": "S'inscrire",
@@ -58,5 +59,11 @@
     "acceptTOS": "En cochant cette case, vous acceptez nos conditions d'utilisation.",
     "noChangeWarning": "Vous ne pourrez plus modifier la classe ou la race une fois votre héros créé.",
     "createHero": "Créer un héros"
+  },
+  "login": {
+    "logged_as": "Connecté en tant que",
+    "level": "Niveau",
+    "select_hero": "Sélectionner un héros",
+    "power": "Puissance"
   }
 }
