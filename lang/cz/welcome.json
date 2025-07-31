@@ -1,0 +1,121 @@
+{
+  "welcome": {
+    "title": "Divine Reaper",
+    "subtitle": "Vytvořeno Aexis Protocol",
+    "desc1": "První skutečně revoluční, bezpovolenková play-to-earn a play-to-learn hra postavená kompletně na blockchainu.",
+    "desc2": "Ponořte se do fantasy světa plného agónie a pomsty. Vyberte si svou rasu, třídu a vydejte se na výpravy, najděte nebo si vytvořte okouzlující vybavení, naučte se jedinečné dovednosti a pomstěte své rodiče.",
+    "desc3": "Poháněno Supra, novou generací Web3."
+  },
+  "faq": {
+    "q1": "1.Q | O čem je Divine Reaper?",
+    "a1": "Divine Reaper je inovativní hra, která spojuje hraní, učení a vydělávání, a přitom zůstává decentralizovaná a bezpovolenková.",
+    "q2": "2.Q | Je Divine Reaper zdarma?",
+    "a2": "Ano, brzy budou k dispozici dvě možnosti zdarma. První je on-chain, kde za vás platíme poplatky za transakce. Druhá je centralizovaná a nevyžaduje Supra peněženku. Prémioví uživatelé získají o 50 % více Loyal Points, žádné reklamy a přístup k XPerience v Aexis Protocol Level System s unikátními odměnami. PS: Premium stojí 100$ Supra při vytvoření postavy + poplatky za transakce dle našeho indexu.",
+    "q3": "3.Q | Který blockchain Divine Reaper používá?",
+    "a3": "Divine Reaper je plně poháněn škálovatelnou infrastrukturou Supra pro Web3 hraní.",
+    "q4": "4.Q | Je Divine Reaper skutečně bezpovolenkový a decentralizovaný?",
+    "a4": "Ano, vše je transparentní a na blockchainu. Každý si může vytvořit vlastní API pro interakci s moduly Divine Reaper přes naše dokumentace.",
+    "q5": "5.Q | Co jsou Loyal Points?",
+    "a5": "Loyal Points jsou speciální odměny, které lze použít k: 1. Snížení poplatků za Premium podle počtu bodů. 2. Směně za $Supra (a další budoucí tokeny). 3. Stakingu pro odměny a rychlejší postup v Aexis Protocol. 4. Hlasování v návrzích (např. změny rovnováhy, aktualizace).",
+    "q6": "6.Q | Jak mohu vybrat Loyal Points?",
+    "a6": "Loyal Points lze vybrat pouze během dvoutýdenního okna po skončení sezóny (reset serveru).",
+    "q7": "7.Q | Má Divine Reaper oficiální kanál na Telegramu?",
+    "a7": "Zatím ne, ale je plánován do budoucna – pravděpodobně příští rok.",
+    "q8": "8.Q | Moje transakce selhávají s chybou (X).",
+    "a8": "Podívejte se na náš seznam chybových kódů. Pro neznámé chyby nás kontaktujte přes Discord, test@gmail.com nebo zprávu tomuto modulu.",
+    "q9": "9.Q | Mohu změnit svou třídu nebo rasu?",
+    "a9": "Ano, hlavní data jako třída, rasa, inventář a odměny jsou neměnná a mohou být aktualizována.",
+    "q10": "10.Q | Kde mohu kontaktovat tým?",
+    "a10": "Můžete nás kontaktovat přes Discord, e-mail nebo připravovaný portál podpory."
+  },
+  "roadmap": {
+    "beta": {
+      "title": "Beta",
+      "date": "Q3 2025",
+      "features": {
+        "bugFixes": {
+          "title": "Opravy chyb",
+          "description": "Společníci s pasivními bonusy a interaktivním chováním."
+        },
+        "optimalizations": {
+          "title": "Optimalizace",
+          "description": "Mise založené na tazích s AI generovanými cestami a nepřáteli."
+        },
+        "pets": {
+          "title": "Mazlíčci",
+          "description": "Najděte a ochočte si jedinečné mazlíčky z divočiny nebo si kupte již přátelského ve městě."
+        },
+        "simulations": {
+          "title": "Simulace",
+          "description": "Vytvářejte jedinečné zbraně a vybavení z vzácných on-chain materiálů."
+        }
+      }
+    },
+    "genesis": {
+      "title": "Genesis",
+      "date": "Začátek 2026",
+      "features": {
+        "seasons": {
+          "title": "Sezóny",
+          "description": "Představení čtvrtletních sezón..."
+        },
+        "guilds": {
+          "title": "Guildy",
+          "description": "Spojte se s ostatními hráči, vybudujte město vlastněné gildou a získejte bonusy."
+        },
+        "turboServer": {
+          "title": "Turbo Server",
+          "description": "Zrychlený server s životností 1 týden (hardcore resety)."
+        },
+        "voting": {
+          "title": "Hlasování o návrzích",
+          "description": "Decentralizace na další úroveň – hráči nyní mohou hlasovat o změnách rovnováhy a aktualizacích hry podle svých Loyal Points."
+        }
+      }
+    },
+    "arcane": {
+      "title": "Arcane",
+      "date": "Polovina 2026",
+      "features": {
+        "autoFi": {
+          "title": "AutoFi",
+          "description": "Stránka určená k automatizaci akcí, jako jsou periodické souboje s bohy..."
+        },
+        "guildAdditions": {
+          "title": "Rozšíření gild",
+          "description": "Přidání raidů a válek gild."
+        },
+        "optimalizations": {
+          "title": "Optimalizace",
+          "description": "Snížení nákladů na gas a zlepšení zabezpečení..."
+        },
+        "tba": {
+          "title": "Bude oznámeno",
+          "description": "Bude oznámeno..."
+        }
+      }
+    },
+    "carnage": {
+      "title": "Carnage",
+      "date": "Q4 2026",
+      "features": {
+        "mobile": {
+          "title": "Mobilní verze",
+          "description": "Společníci s pasivními bonusy a interaktivním chováním."
+        },
+        "expansion": {
+          "title": "Velké rozšíření",
+          "description": "Více výprav, více typů materiálů, více dungeonů..."
+        },
+        "tba1": {
+          "title": "Bude oznámeno",
+          "description": "Bude oznámeno..."
+        },
+        "tba2": {
+          "title": "Bude oznámeno",
+          "description": "Bude oznámeno..."
+        }
+      }
+    }
+  }
+}
