@@ -1,61 +1,30 @@
 {
   "menu": {
     "class": "Class",
-    "login": "Login",
     "race": "Race",
     "register": "Register",
-    "selection": "Selection",
-    "settings": "Quick Settings",
-    "profile": "Profile",
-    "bundle": "Bundle"
+    "settings": "Fast Settings",
+    "profile": "Profile"
   },
- "bundle": {
-  "centralized": {
-    "title": "Centralized",
-    "feature1": "Completely free to play, no payment required.",
-    "feature2": "You don't need to own any Web 3.0 wallet.",
-    "feature3": "We store your password and username in our centralized database.",
-    "feature4": "If our API goes down, you won’t be able to play compared to other bundles.",
-    "feature5": "You will see side panel advertisements.",
-    "feature6": "You will occasionally receive pop-up ads.",
-    "feature7": "Our MMR-to-rewards ratio is only 0.4.",
-    "feature8": "You receive 100% Aexis Pass XP points."
+  "bundle": {
+    "centralized": {
+      "title": "Centralized",
+      "feature1": "Completely free to play, no need to pay anything",
+      "feature2": "You don't have to own any Web 3.0 wallet.",
+      "feature3": "We store your password and username in our centralized database"
+      // Add more...
+    }
   },
-  "decentralized": {
-    "title": "Half-Decentralized",
-    "feature1": "Completely free to play, no payment required.",
-    "feature2": "Your account is secured via blockchain authentication.",
-    "feature3": "Minimal advertisement experience.",
-    "feature4": "You will never receive pop-up ads.",
-    "feature5": "In the future, you will be able to play even if our API goes down.",
-    "feature6": "Our MMR-to-rewards ratio is 0.5.",
-    "feature7": "Earn up to 105% Aexis Pass XP points.",
-    "feature8": "Requires a Web 3.0 wallet, such as MetaMask."
-  },
-  "vip": {
-    "title": "Supra-Decentralized",
-    "feature1": "In the future, you will be able to play even if our API goes down.",
-    "feature2": "No advertisements at all.",
-    "feature3": "We will never store any of your personal information.",
-    "feature4": "Everything is completely transparent and visible on the blockchain.",
-    "feature5": "Receive 1 free Treasure daily upon logging in and claiming it.",
-    "feature6": "Our MMR-to-rewards ratio is 1.0.",
-    "feature7": "Earn up to 150% Aexis Pass XP points.",
-    "feature8": "You will pay a minimal $Supra fee on your transactions."
-  }
-},
   "settings": {
     "tooltips": "Hover Tooltips on Various Content",
     "familyFilter": "Family Filter on Chat",
     "visualEffects": "View Combat Visual Effects",
-    "musicVolume": "Music Sound Volume",
-    "musicVolumeFX": "Music Sound Volume"
+    "musicVolume": "Music Sound Volume"
   },
   "profile": {
     "nickname": "Nickname",
     "email": "Email",
     "password": "Password",
-    "selectWallet": "Choose your prefered Wallet",
     "acceptTOS": "By checking this box, you accept our Terms Of Services.",
     "noChangeWarning": "You won't be able to change your class or race once you proceed to create your hero",
     "createHero": "Create Hero"

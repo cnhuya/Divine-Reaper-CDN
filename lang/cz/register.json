@@ -1,6 +1,5 @@
 {
   "menu": {
-    "login": "Přihlášení",
     "class": "Třída",
     "race": "Rasa",
     "register": "Registrovat",
@@ -59,11 +58,5 @@
     "acceptTOS": "Zaškrtnutím tohoto pole souhlasíš s našimi podmínkami používání.",
     "noChangeWarning": "Jakmile vytvoříš svého hrdinu, nemůžeš později změnit třídu ani rasu.",
     "createHero": "Vytvořit hrdinu"
-  },
-  "login": {
-    "logged_as": "Přihlášen jako",
-    "level": "Úroveň",
-    "select_hero": "Vyberte hrdinu",
-    "power": "Síla"
   }
 }

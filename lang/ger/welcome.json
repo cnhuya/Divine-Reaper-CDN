@@ -1,0 +1,123 @@
+{
+  "welcome": {
+    "title": "Divine Reaper",
+    "subtitle": "Erstellt von Aexis Protocol",
+    "desc1": "Das erste wirklich revolutionäre, erlaubnisfreie Play-to-Earn- und Play-to-Learn-Spiel, komplett auf der Blockchain aufgebaut.",
+    "desc2": "Tauche ein in eine Fantasy-Welt voller Qual und Rache. Wähle deine Rasse, Klasse und begib dich auf Abenteuer, finde oder erschaffe bezaubernde Ausrüstung, lerne einzigartige Fähigkeiten und räche deine Eltern.",
+    "desc3": "Angetrieben von Supra, der neuen Generation des Web3.",
+    "button": "Rache",
+    "loreBtn": "Geschichte"
+  },
+  "faq": {
+    "q1": "1.Q | Worum geht es bei Divine Reaper?",
+    "a1": "Divine Reaper ist ein innovatives Spiel, das Spielen, Lernen und Verdienen verbindet und dabei dezentralisiert und erlaubnisfrei bleibt.",
+    "q2": "2.Q | Ist Divine Reaper kostenlos?",
+    "a2": "Ja, bald werden zwei kostenlose Optionen verfügbar sein. Die erste ist On-Chain, bei der wir die Transaktionsgebühren für dich übernehmen. Die zweite ist zentralisiert und erfordert keine Supra-Wallet. Premium-Nutzer erhalten 50 % mehr Loyal Points, keine Werbung und Zugang zu XPerience im Aexis Protocol Level System mit einzigartigen Belohnungen. PS: Premium kostet 100 $ Supra bei Charaktererstellung plus Transaktionsgebühren gemäß unserem Index.",
+    "q3": "3.Q | Welche Blockchain verwendet Divine Reaper?",
+    "a3": "Divine Reaper wird vollständig von der skalierbaren Supra-Infrastruktur für Web3-Gaming betrieben.",
+    "q4": "4.Q | Ist Divine Reaper wirklich erlaubnisfrei und dezentralisiert?",
+    "a4": "Ja, alles ist transparent und auf der Blockchain. Jeder kann seine eigene API erstellen, um mit den Divine Reaper-Modulen über unsere Dokumentation zu interagieren.",
+    "q5": "5.Q | Was sind Loyal Points?",
+    "a5": "Loyal Points sind spezielle Belohnungen, die verwendet werden können für: 1. Reduzierung der Premium-Gebühren basierend auf der Anzahl der Punkte. 2. Umtausch in $Supra (und andere zukünftige Token). 3. Staking für Belohnungen und schnelleres Vorankommen im Aexis Protocol. 4. Abstimmungen über Vorschläge (z.B. Balancing, Updates).",
+    "q6": "6.Q | Wie kann ich Loyal Points abheben?",
+    "a6": "Loyal Points können nur während eines zweiwöchigen Fensters nach Ende der Saison (Server-Reset) abgehoben werden.",
+    "q7": "7.Q | Hat Divine Reaper einen offiziellen Telegram-Kanal?",
+    "a7": "Noch nicht, aber geplant für das nächste Jahr.",
+    "q8": "8.Q | Meine Transaktionen schlagen mit Fehler (X) fehl.",
+    "a8": "Sieh dir unsere Liste der Fehlercodes an. Für unbekannte Fehler kontaktiere uns über Discord, test@gmail.com oder eine Nachricht an dieses Modul.",
+    "q9": "9.Q | Kann ich meine Klasse oder Rasse ändern?",
+    "a9": "Ja, die Hauptdaten wie Klasse, Rasse, Inventar und Belohnungen sind unveränderlich, können aber aktualisiert werden.",
+    "q10": "10.Q | Wo kann ich das Team kontaktieren?",
+    "a10": "Du kannst uns über Discord, E-Mail oder das vorbereitete Support-Portal kontaktieren."
+  },
+  "roadmap": {
+    "beta": {
+      "title": "Beta",
+      "date": "Q3 2025",
+      "features": {
+        "bugFixes": {
+          "title": "Fehlerbehebungen",
+          "description": "Begleiter mit passiven Boni und interaktivem Verhalten."
+        },
+        "optimalizations": {
+          "title": "Optimierungen",
+          "description": "Missionen basierend auf Zügen mit KI-generierten Pfaden und Gegnern."
+        },
+        "pets": {
+          "title": "Begleiter",
+          "description": "Finde und zähme einzigartige Begleiter aus der Wildnis oder kaufe bereits freundliche in der Stadt."
+        },
+        "simulations": {
+          "title": "Simulationen",
+          "description": "Erstelle einzigartige Waffen und Ausrüstung aus seltenen On-Chain-Materialien."
+        }
+      }
+    },
+    "genesis": {
+      "title": "Genesis",
+      "date": "Anfang 2026",
+      "features": {
+        "seasons": {
+          "title": "Saisons",
+          "description": "Einführung von vierteljährlichen Saisons..."
+        },
+        "guilds": {
+          "title": "Gilden",
+          "description": "Verbinde dich mit anderen Spielern, baue eine von einer Gilde besessene Stadt und erhalte Boni."
+        },
+        "turboServer": {
+          "title": "Turbo-Server",
+          "description": "Beschleunigter Server mit einer Lebensdauer von 1 Woche (Hardcore-Resets)."
+        },
+        "voting": {
+          "title": "Abstimmung über Vorschläge",
+          "description": "Dezentralisierung auf die nächste Stufe – Spieler können nun über Balancing-Änderungen und Updates mit ihren Loyal Points abstimmen."
+        }
+      }
+    },
+    "arcane": {
+      "title": "Arcane",
+      "date": "Mitte 2026",
+      "features": {
+        "autoFi": {
+          "title": "AutoFi",
+          "description": "Seite zur Automatisierung von Aktionen wie periodischen Kämpfen gegen Götter..."
+        },
+        "guildAdditions": {
+          "title": "Gildenerweiterungen",
+          "description": "Hinzufügen von Raids und Gildenkriegen."
+        },
+        "optimalizations": {
+          "title": "Optimierungen",
+          "description": "Reduzierung der Gas-Kosten und Verbesserung der Sicherheit..."
+        },
+        "tba": {
+          "title": "Wird angekündigt",
+          "description": "Wird angekündigt..."
+        }
+      }
+    },
+    "carnage": {
+      "title": "Carnage",
+      "date": "Q4 2026",
+      "features": {
+        "mobile": {
+          "title": "Mobile Version",
+          "description": "Begleiter mit passiven Boni und interaktivem Verhalten."
+        },
+        "expansion": {
+          "title": "Große Erweiterung",
+          "description": "Mehr Quests, mehr Materialtypen, mehr Dungeons..."
+        },
+        "tba1": {
+          "title": "Wird angekündigt",
+          "description": "Wird angekündigt..."
+        },
+        "tba2": {
+          "title": "Wird angekündigt",
+          "description": "Wird angekündigt..."
+        }
+      }
+    }
+  }
+}

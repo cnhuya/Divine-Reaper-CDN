@@ -4,7 +4,9 @@
     "subtitle": "Created by Aexis Protocol",
     "desc1": "The first truly revolutionary, permissionless play-to-earn and play-to-learn game built entirely on blockchain.",
     "desc2": "Dive into a fantasy world full of agony and revenge. Choose your race, class, and set out on expeditions, find or craft enchanting gear, learn unique skills, and avenge your parents.",
-    "desc3": "Powered by Supra, the next generation of Web3."
+    "desc3": "Powered by Supra, the next generation of Web3.",
+    "button": "Get Revenge",
+    "loreBtn":  "See Lore"
   },
   "faq": {
     "q1": "1.Q | What is Divine Reaper about?",

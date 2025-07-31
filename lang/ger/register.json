@@ -1,69 +1,31 @@
 {
   "menu": {
-    "login": "Anmelden",
     "class": "Klasse",
     "race": "Rasse",
     "register": "Registrieren",
-    "selection": "Auswahl",
     "settings": "Schnelleinstellungen",
-    "profile": "Profil",
-    "bundle": "Paket"
+    "profile": "Profil"
   },
   "bundle": {
     "centralized": {
       "title": "Zentralisiert",
-      "feature1": "Komplett kostenlos spielbar, keine Zahlung erforderlich.",
-      "feature2": "Du benötigst keine Web-3.0-Wallet.",
-      "feature3": "Wir speichern dein Passwort und deinen Benutzernamen in unserer zentralisierten Datenbank.",
-      "feature4": "Wenn unsere API ausfällt, kannst du im Vergleich zu anderen Paketen nicht spielen.",
-      "feature5": "Du siehst Werbeanzeigen in der Seitenleiste.",
-      "feature6": "Gelegentlich erhältst du Pop-up-Werbung.",
-      "feature7": "Unser MMR-zu-Belohnungs-Verhältnis beträgt nur 0,4.",
-      "feature8": "Du erhältst 100 % Aexis-Pass-EP."
-    },
-    "decentralized": {
-      "title": "Teilweise dezentralisiert",
-      "feature1": "Komplett kostenlos spielbar, keine Zahlung erforderlich.",
-      "feature2": "Dein Konto ist durch Blockchain-Authentifizierung gesichert.",
-      "feature3": "Minimale Werbeerfahrung.",
-      "feature4": "Du wirst niemals Pop-up-Werbung erhalten.",
-      "feature5": "In Zukunft kannst du auch spielen, wenn unsere API ausfällt.",
-      "feature6": "Unser MMR-zu-Belohnungs-Verhältnis beträgt 0,5.",
-      "feature7": "Verdiene bis zu 105 % Aexis-Pass-EP.",
-      "feature8": "Erfordert eine Web-3.0-Wallet wie MetaMask."
-    },
-    "vip": {
-      "title": "Supra-dezentralisiert",
-      "feature1": "In Zukunft kannst du auch spielen, wenn unsere API ausfällt.",
-      "feature2": "Keine Werbung whatsoever.",
-      "feature3": "Wir werden niemals deine persönlichen Daten speichern.",
-      "feature4": "Alles ist vollständig transparent und auf der Blockchain einsehbar.",
-      "feature5": "Erhalte täglich 1 kostenlosen Schatz beim Einloggen und Beanspruchen.",
-      "feature6": "Unser MMR-zu-Belohnungs-Verhältnis beträgt 1,0.",
-      "feature7": "Verdiene bis zu 150 % Aexis-Pass-EP.",
-      "feature8": "Du zahlst eine minimale $Supra-Gebühr für deine Transaktionen."
+      "feature1": "Völlig kostenlos spielbar, keine Zahlungen erforderlich",
+      "feature2": "Du benötigst keine Web 3.0-Wallet.",
+      "feature3": "Wir speichern deinen Benutzernamen und dein Passwort in unserer zentralen Datenbank"
     }
   },
   "settings": {
-    "tooltips": "Tooltips beim Überfahren verschiedener Inhalte",
-    "familyFilter": "Familienfilter im Chat",
+    "tooltips": "Tooltips bei verschiedenen Inhalten anzeigen",
+    "familyFilter": "Familienfilter für den Chat",
     "visualEffects": "Kampfeffekte anzeigen",
-    "musicVolume": "Musiklautstärke",
-    "musicVolumeFX": "Soundeffekte-Lautstärke"
+    "musicVolume": "Musiklautstärke"
   },
   "profile": {
     "nickname": "Spitzname",
     "email": "E-Mail",
     "password": "Passwort",
-    "selectWallet": "Wähle deine bevorzugte Wallet",
-    "acceptTOS": "Durch Ankreuzen dieses Feldes akzeptierst du unsere Nutzungsbedingungen.",
-    "noChangeWarning": "Du kannst Klasse oder Rasse später nicht mehr ändern, sobald du deinen Helden erstellst.",
-    "createHero": "Helden erstellen"
-  },
-  "login": {
-    "logged_as": "Angemeldet als",
-    "level": "Stufe",
-    "select_hero": "Helden auswählen",
-    "power": "Kraft"
+    "acceptTOS": "Durch Ankreuzen akzeptierst du unsere Nutzungsbedingungen.",
+    "noChangeWarning": "Du kannst Klasse oder Rasse nach der Helden-Erstellung nicht mehr ändern",
+    "createHero": "Held erstellen"
   }
 }

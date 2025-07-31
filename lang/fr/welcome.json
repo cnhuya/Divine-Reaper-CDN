@@ -1,0 +1,123 @@
+{
+  "welcome": {
+    "title": "Divine Reaper",
+    "subtitle": "Créé par Aexis Protocol",
+    "desc1": "Le premier jeu véritablement révolutionnaire play-to-earn et play-to-learn sans permission, entièrement construit sur la blockchain.",
+    "desc2": "Plongez dans un monde fantastique rempli d’agonie et de vengeance. Choisissez votre race, votre classe et partez en quêtes, trouvez ou créez un équipement enchanteur, apprenez des compétences uniques et vengez vos parents.",
+    "desc3": "Propulsé par Supra, la nouvelle génération du Web3.",
+    "button": "Vengeance",
+    "loreBtn": "Histoire"
+  },
+  "faq": {
+    "q1": "1.Q | Qu’est-ce que Divine Reaper ?",
+    "a1": "Divine Reaper est un jeu innovant qui combine jeu, apprentissage et gains, tout en restant décentralisé et sans permission.",
+    "q2": "2.Q | Divine Reaper est-il gratuit ?",
+    "a2": "Oui, deux options gratuites seront bientôt disponibles. La première est on-chain, où nous payons les frais de transaction pour vous. La deuxième est centralisée et ne nécessite pas de portefeuille Supra. Les utilisateurs premium bénéficient de 50 % de Loyal Points en plus, pas de publicités et d’un accès à l’XPerience dans le système de niveaux Aexis Protocol avec des récompenses uniques. PS : Le premium coûte 100 $ Supra à la création du personnage + les frais de transaction selon notre index.",
+    "q3": "3.Q | Quelle blockchain utilise Divine Reaper ?",
+    "a3": "Divine Reaper est entièrement alimenté par l’infrastructure scalable Supra pour le jeu Web3.",
+    "q4": "4.Q | Divine Reaper est-il vraiment sans permission et décentralisé ?",
+    "a4": "Oui, tout est transparent et sur blockchain. Chacun peut créer sa propre API pour interagir avec les modules Divine Reaper via notre documentation.",
+    "q5": "5.Q | Que sont les Loyal Points ?",
+    "a5": "Les Loyal Points sont des récompenses spéciales qui peuvent être utilisées pour : 1. Réduire les frais premium selon le nombre de points. 2. Les échanger contre des $Supra (et d’autres tokens futurs). 3. Le staking pour des récompenses et une progression plus rapide dans Aexis Protocol. 4. Voter sur des propositions (ex : équilibrage, mises à jour).",
+    "q6": "6.Q | Comment puis-je retirer mes Loyal Points ?",
+    "a6": "Les Loyal Points ne peuvent être retirés que pendant une fenêtre de deux semaines après la fin de la saison (reset serveur).",
+    "q7": "7.Q | Divine Reaper a-t-il un canal officiel sur Telegram ?",
+    "a7": "Pas encore, mais c’est prévu pour l’année prochaine.",
+    "q8": "8.Q | Mes transactions échouent avec l’erreur (X). Que faire ?",
+    "a8": "Consultez notre liste des codes d’erreurs. Pour les erreurs inconnues, contactez-nous via Discord, test@gmail.com ou un message à ce module.",
+    "q9": "9.Q | Puis-je changer ma classe ou ma race ?",
+    "a9": "Oui, les données principales comme la classe, la race, l’inventaire et les récompenses sont immuables mais peuvent être mises à jour.",
+    "q10": "10.Q | Où puis-je contacter l’équipe ?",
+    "a10": "Vous pouvez nous contacter via Discord, email ou le portail support en préparation."
+  },
+  "roadmap": {
+    "beta": {
+      "title": "Bêta",
+      "date": "T3 2025",
+      "features": {
+        "bugFixes": {
+          "title": "Corrections de bugs",
+          "description": "Compagnons avec bonus passifs et comportements interactifs."
+        },
+        "optimalizations": {
+          "title": "Optimisations",
+          "description": "Missions basées sur des tours avec des chemins et ennemis générés par IA."
+        },
+        "pets": {
+          "title": "Animaux de compagnie",
+          "description": "Trouvez et apprivoisez des animaux uniques dans la nature ou achetez-en déjà amicaux en ville."
+        },
+        "simulations": {
+          "title": "Simulations",
+          "description": "Créez des armes et équipements uniques à partir de matériaux rares on-chain."
+        }
+      }
+    },
+    "genesis": {
+      "title": "Genèse",
+      "date": "Début 2026",
+      "features": {
+        "seasons": {
+          "title": "Saisons",
+          "description": "Introduction des saisons trimestrielles..."
+        },
+        "guilds": {
+          "title": "Guildes",
+          "description": "Rejoignez d’autres joueurs, construisez une ville détenue par la guilde et obtenez des bonus."
+        },
+        "turboServer": {
+          "title": "Serveur Turbo",
+          "description": "Serveur accéléré avec durée de vie d’une semaine (resets hardcore)."
+        },
+        "voting": {
+          "title": "Vote sur les propositions",
+          "description": "Décentralisation poussée – les joueurs peuvent voter sur les équilibrages et mises à jour avec leurs Loyal Points."
+        }
+      }
+    },
+    "arcane": {
+      "title": "Arcane",
+      "date": "Mi-2026",
+      "features": {
+        "autoFi": {
+          "title": "AutoFi",
+          "description": "Page dédiée à l’automatisation d’actions comme des combats périodiques contre des dieux..."
+        },
+        "guildAdditions": {
+          "title": "Extensions des guildes",
+          "description": "Ajout de raids et guerres de guildes."
+        },
+        "optimalizations": {
+          "title": "Optimisations",
+          "description": "Réduction des coûts de gas et amélioration de la sécurité..."
+        },
+        "tba": {
+          "title": "À annoncer",
+          "description": "À annoncer..."
+        }
+      }
+    },
+    "carnage": {
+      "title": "Carnage",
+      "date": "T4 2026",
+      "features": {
+        "mobile": {
+          "title": "Version mobile",
+          "description": "Compagnons avec bonus passifs et comportements interactifs."
+        },
+        "expansion": {
+          "title": "Grande extension",
+          "description": "Plus de quêtes, plus de types de matériaux, plus de donjons..."
+        },
+        "tba1": {
+          "title": "À annoncer",
+          "description": "À annoncer..."
+        },
+        "tba2": {
+          "title": "À annoncer",
+          "description": "À annoncer..."
+        }
+      }
+    }
+  }
+}
