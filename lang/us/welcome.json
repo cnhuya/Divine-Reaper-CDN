@@ -1,0 +1,121 @@
+{
+  "welcome": {
+    "title": "Divine Reaper",
+    "subtitle": "Created by Aexis Protocol",
+    "desc1": "The first truly revolutionary, permissionless play-to-earn and play-to-learn game built entirely on blockchain.",
+    "desc2": "Dive into a fantasy world full of agony and revenge. Choose your race, class, and set out on expeditions, find or craft enchanting gear, learn unique skills, and avenge your parents.",
+    "desc3": "Powered by Supra, the next generation of Web3."
+  },
+  "faq": {
+    "q1": "1.Q | What is Divine Reaper about?",
+    "a1": "Divine Reaper is an innovative game that combines playing, learning, and earning while remaining decentralized and permissionless.",
+    "q2": "2.Q | Is Divine Reaper free?",
+    "a2": "Yes, soon there will be two free options available. The first is on-chain, where we cover transaction fees for you. The second is centralized and does not require a Supra wallet. Premium users get 50% more Loyal Points, no ads, and access to XPerience in the Aexis Protocol Level System with unique rewards. PS: Premium costs 100$ Supra at character creation + transaction fees per our index.",
+    "q3": "3.Q | Which blockchain does Divine Reaper use?",
+    "a3": "Divine Reaper is fully powered by Supra’s scalable infrastructure for Web3 gaming.",
+    "q4": "4.Q | Is Divine Reaper really permissionless and decentralized?",
+    "a4": "Yes, everything is transparent and on the blockchain. Everyone can create their own API to interact with Divine Reaper modules via our documentation.",
+    "q5": "5.Q | What are Loyal Points?",
+    "a5": "Loyal Points are special rewards that can be used to: 1. Reduce Premium fees according to point amounts. 2. Exchange for $Supra (and other future tokens). 3. Stake for rewards and faster progress in Aexis Protocol. 4. Vote on proposals (e.g., balance changes, updates).",
+    "q6": "6.Q | How can I withdraw Loyal Points?",
+    "a6": "Loyal Points can be withdrawn only during a two-week window after the season ends (server reset).",
+    "q7": "7.Q | Does Divine Reaper have an official Telegram channel?",
+    "a7": "Not yet, but one is planned for the future – probably next year.",
+    "q8": "8.Q | My transactions fail with error (X).",
+    "a8": "Check our list of error codes. For unknown errors, contact us via Discord, test@gmail.com, or message this module.",
+    "q9": "9.Q | Can I change my class or race?",
+    "a9": "Yes, main data like class, race, inventory, and rewards are immutable but can be updated.",
+    "q10": "10.Q | How can I contact the team?",
+    "a10": "You can contact us via Discord, email, or the upcoming support portal."
+  },
+  "roadmap": {
+    "beta": {
+      "title": "Beta",
+      "date": "Q3 2025",
+      "features": {
+        "bugFixes": {
+          "title": "Bug Fixes",
+          "description": "Companions with passive buffs and interactive behaviors."
+        },
+        "optimalizations": {
+          "title": "Optimalizations",
+          "description": "Turn-based missions with AI-generated loot paths and enemies."
+        },
+        "pets": {
+          "title": "Pets",
+          "description": "Find and tame unique pets from the wild or buy an already befriended one in town."
+        },
+        "simulations": {
+          "title": "Simulations",
+          "description": "Build unique weapons and gear with rare on-chain materials."
+        }
+      }
+    },
+    "genesis": {
+      "title": "Genesis",
+      "date": "Early 2026",
+      "features": {
+        "seasons": {
+          "title": "Seasons",
+          "description": "Introducing quarterly seasons..."
+        },
+        "guilds": {
+          "title": "Guilds",
+          "description": "Team up with other players, build a guild-owned town, and earn bonuses."
+        },
+        "turboServer": {
+          "title": "Turbo Server",
+          "description": "Speeded-up server with 1 week lifespan (hardcore resets)."
+        },
+        "voting": {
+          "title": "Proposal Voting",
+          "description": "Taking decentralization to the next level – players can now vote on balance changes and updates based on their Loyal Points."
+        }
+      }
+    },
+    "arcane": {
+      "title": "Arcane",
+      "date": "Mid 2026",
+      "features": {
+        "autoFi": {
+          "title": "AutoFi",
+          "description": "Page dedicated to automate actions, such as periodic God fights..."
+        },
+        "guildAdditions": {
+          "title": "Guild Additions",
+          "description": "Introducing raids and guild wars."
+        },
+        "optimalizations": {
+          "title": "Optimalizations",
+          "description": "Reducing gas costs and improving security..."
+        },
+        "tba": {
+          "title": "To Be Announced",
+          "description": "To be announced..."
+        }
+      }
+    },
+    "carnage": {
+      "title": "Carnage",
+      "date": "Q4 2026",
+      "features": {
+        "mobile": {
+          "title": "Mobile Version",
+          "description": "Companions with passive buffs and interactive behaviors."
+        },
+        "expansion": {
+          "title": "Huge Expansion",
+          "description": "More expeditions, more material types, more dungeons..."
+        },
+        "tba1": {
+          "title": "To Be Announced",
+          "description": "To be announced..."
+        },
+        "tba2": {
+          "title": "To Be Announced",
+          "description": "To be announced..."
+        }
+      }
+    }
+  }
+}
